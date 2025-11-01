@@ -13,7 +13,7 @@ const footerLinks = {
   Company: [
     { name: "About Us", href: "#" },
     { name: "Portfolio", href: "#portfolio" },
-    { name: "Blog", href: "https://blog.tinycheque.com" },
+    { name: "Blog", href: "https://tinycheque-blog.vercel.app" },
     { name: "Contact", href: "#" },
   ],
   Legal: [

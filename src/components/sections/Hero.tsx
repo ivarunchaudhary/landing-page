@@ -105,7 +105,7 @@ export function Hero() {
               fontWeight="600"
               asChild
             >
-              <Link href="https://blog.tinycheque.com">
+              <Link href="https://tinycheque-blog.vercel.app" target="_blank" rel="noopener noreferrer">
                 Read Our Blog
               </Link>
             </Button>
